@@ -1,5 +1,22 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Additional Stack
+- Tailwind
+- MDX
+
+## Pulling Sources
+Nested git repos are poggers and based. This repo makes use of a lot of them
+
+## Project Folder Structure
+
+`pages` - `.js` source files for FRONT and BACK
+`projects` - Directory of current and past projects
+`public` - public resources like images, textures, etc.
+`blog` - `.mdx` blog posts. Statically generated
+`static` - All other sources for static generated content
+`styles` - `.css` stylesheets
+`work` - Professional information
+
 ## Getting Started
 
 First, run the development server:
